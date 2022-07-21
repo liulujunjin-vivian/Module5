@@ -14,14 +14,14 @@
 ## Using process
 
   > use request library to get BTC information       
-![pic01]("https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/01.jpg")    
+![pic01](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/01.jpg)    
 
   > use alpaca SDK get information of AGG and SPY    
-![pic02]("https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/02.jpg")     
+![pic02](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/02.jpg)     
 
   > store the info in a list and make a dataFrame based on it for a pie chart    
-![pic03]("https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/03.jpg")        
-![pic04]("https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/04.jpg")   
+![pic03](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/03.jpg)        
+![pic04](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/04.jpg)   
 
   > use python if statements to check if members has enough money in the fund
 ```python
@@ -34,9 +34,9 @@ else:
 ```
 
    > use Monte Carlo simulaters to predict    
-![pic05]("https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/05.jpg")    
-![pic06]("https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/06.jpg")    
-![pic07]("https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/07.jpg")    
+![pic05](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/05.jpg)    
+![pic06](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/06.jpg)    
+![pic07](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/07.jpg)    
 
 ---
 
